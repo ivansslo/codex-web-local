@@ -50,7 +50,7 @@ When started with password protection (default), the server prints the password 
 
 ## Contributing
 
-Issues and pull requests are welcome! If you have ideas, suggestions, or found a bug, please open an issue on the [GitHub repository](https://github.com/pavel-voronin/codex-web-local/issues).
+Issues and pull requests are welcome! If you have ideas, suggestions, or found a bug, please open an issue on the [GitHub repository](https://github.com/ivansslo/codex-web-local/issues).
 
 ## License
 
